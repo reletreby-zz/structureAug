@@ -14,3 +14,7 @@ sklearn, networkx, numpy, scipy, matplotlib.pyplot, tensorflow, community
 
 Note: community package --> https://github.com/taynaud/python-louvain
 
+Running the code:
+1. Edit execute.py by adding the desired parameters
+2. Run execute.py
+
