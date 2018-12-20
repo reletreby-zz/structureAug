@@ -10,7 +10,7 @@ Dataset:
 https://snap.stanford.edu/data/ego-Facebook.html
 
 Packages needed:
-sklearn, networkx, numpy, scipy, matplotlib.pyplot, community
+sklearn, networkx, numpy, scipy, matplotlib.pyplot, tensorflow, community
 
 Note: community package --> https://github.com/taynaud/python-louvain
 
